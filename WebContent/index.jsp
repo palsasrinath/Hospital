@@ -312,7 +312,9 @@
 										<div class="skills1">Happy Patients 92%</div> 
 										<div class="skills2">Health Care 100%</div>
 										<div class="skills3">success rate 100%</div>
-										<div class="skills3">success rate 95%</div>
+										<div class="skills4">success rate 95%</div>
+										<div class="skills5">success rate 96%</div>
+										<div class="skills6">success rate 97%</div>
 										</div>
 								</div><!-- End Single Services -->
 
